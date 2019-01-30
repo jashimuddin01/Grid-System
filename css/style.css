@@ -1,0 +1,22 @@
+.full {
+	background-color: #476787;
+}
+
+.custom-bg {
+	background-color: gray;
+	min-height: 50px;
+	color: white;
+	text-align: center;
+	border: 2px solid pink;
+	margin-bottom: 10px;
+}
+
+.bg .col {
+	background-color: gray;
+	min-height: 50px;
+	color: white;
+	text-align: center;
+	border-right: 2px solid pink;
+	margin-bottom: 10px;
+}
+
